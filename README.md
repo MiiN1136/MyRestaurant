@@ -3,6 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
 ! This project is still under development !
 
+## Dockerfile
+The dockerfile that exists in this projet still doesn't work properly, as I am still new to Docker.
+
 ## Back-end
 
 The backend developed with ExpressJs exists in this project having as path: src/server
